@@ -4,8 +4,6 @@ import { Container } from "./styles";
 export function TransactionsTable() {
   const { transactions } = useTransactions();
 
-  console.log(transactions);
-
   return (
     <Container>
       <table>
