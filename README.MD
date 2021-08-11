@@ -19,6 +19,7 @@
 
 <p align="center">
   <img alt="Dtmoney" src=".github/dtmoney.png" width="100%">
+  <img alt="Dtmoney" src=".github/dtmoney_modal.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
